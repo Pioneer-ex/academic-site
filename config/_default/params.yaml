@@ -1,0 +1,86 @@
+# ══════════════════════════════════════════════════════════════════════
+# HUGO BLOX CONFIGURATION
+# Schema: hugoblox.com/schema/v2
+# Docs: https://docs.hugoblox.com/
+# ══════════════════════════════════════════════════════════════════════
+hugoblox:
+  schema: "2.0"
+
+  # ── IDENTITY ──────────────────────────────────────────────────────
+  identity:
+    name: "Lu Jinzhe (Jenkin)"
+    organization: ""
+    type: person
+    tagline: "Remote Sensing & GIS Researcher"
+    description: "Academic portfolio of Lu Jinzhe — Coastal Zone Environmental Monitoring, Google Earth Engine, and Lagoon Turbidity Analysis."
+    social:
+      github: "jenkin-lu"
+
+  # ── THEME ─────────────────────────────────────────────────────────
+  theme:
+    mode: system
+    pack: "default"
+    colors:
+      primary: "teal"
+      secondary: "cyan"
+      neutral: "slate"
+
+  # ── TYPOGRAPHY ────────────────────────────────────────────────────
+  typography:
+    pack: "academic"
+
+  # ── LAYOUT ────────────────────────────────────────────────────────
+  layout:
+    radius: "md"
+    spacing: "spacious"
+    avatar_shape: circle
+
+  # ── HEADER ────────────────────────────────────────────────────────
+  header:
+    enable: true
+    style: navbar
+    sticky: true
+    align: center
+    search: true
+    theme_toggle: true
+    theme_picker: false
+    language_switcher: false
+    cta:
+      enable: false
+      text: ""
+      url: ""
+
+  # ── FOOTER ────────────────────────────────────────────────────────
+  footer:
+    enable: true
+    align: center
+    copyright:
+      enable: true
+      text: "&copy; {{YEAR}} Lu Jinzhe"
+    social:
+      enable: true
+      icons:
+        - icon: fab fa-github
+          url: "https://github.com/jenkin-lu"
+          label: GitHub
+          target: _blank
+
+  # ── FEATURES ──────────────────────────────────────────────────────
+  features:
+    syntaxHighlighter:
+      enable: true
+      theme_light: github-light
+      theme_dark: dracula
+    privacyPack:
+      enable: true
+    search:
+      provider: ""
+    navigation:
+      highlight_active_link: true
+    sidebar:
+      enable: true
+      avatar:
+        enable: true
+        align: start
+        size: medium
+        shape: circle
