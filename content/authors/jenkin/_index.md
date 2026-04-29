@@ -1,38 +1,34 @@
 ---
 name: Lu Jinzhe
-role: Remote Sensing & GIS Researcher
+role: Remote Sensing and GIS Researcher
 bio: |
-  I am a Remote Sensing & GIS Researcher with a strong focus on coastal zone
-  environmental monitoring. My work involves long-term spatiotemporal analysis of
-  lagoon water quality using Google Earth Engine, ArcGIS Pro, QGIS, and Python.
-
-  I am preparing applications for PhD programs in Europe (Netherlands, France,
-  Belgium) under the CSC funding scheme for the 2026/2027 intake.
-email: ""
+  Master's student at China University of Geosciences (Beijing).
+  Researching coastal zone environmental monitoring using Google Earth Engine,
+  remote sensing, and GIS. Applying for PhD programs in Europe (CSC 2026/2027).
+email: Jenkin_Lu@163.com
 phone: ""
 scholar_userid: ""
 orcid: ""
-github: jenkin-lu
+github: Pioneer-ex
 twitter: ""
 social:
   - icon: fab fa-github
     icon_pack: fab
     name: GitHub
-    url: https://github.com/jenkin-lu
-  - icon: fas fa-graduation-cap
-    icon_pack: fas
-    name: Google Scholar
-    url: https://scholar.google.com/
+    url: https://github.com/Pioneer-ex
   - icon: fas fa-envelope
     icon_pack: fas
     name: Email
-    link: mailto:placeholder@example.com
+    link: mailto:Jenkin_Lu@163.com
 
 education:
   courses:
-    - course: "B.Sc. in Remote Sensing Science and Technology"
-      institution: "Your University"
-      year: "20XX"
+    - course: "M.Sc. in Remote Sensing Science and Technology"
+      institution: "China University of Geosciences (Beijing)"
+      year: "2024—2027"
+    - course: "B.Sc. in Geographic Information Science"
+      institution: "Qilu University of Technology"
+      year: "2019—2023"
 
 user_groups:
   - Researchers

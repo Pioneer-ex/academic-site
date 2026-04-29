@@ -1,17 +1,16 @@
-- title: Research Assistant - Coastal Remote Sensing
-  date_start: 2023-09-01
-  date_end: 2025-12-31
-  institution: Your University / Research Institute
+- title: "M.Sc. Student in Remote Sensing Science and Technology"
+  date_start: 2024-09-01
+  date_end: 2027-06-30
+  institution: "China University of Geosciences (Beijing)"
   description: |
-    - Led long-term spatiotemporal analysis of lagoon turbidity (NDTI) using Google Earth Engine.
-    - Compared morphological and hydrological influences on water clarity in Xincun and Li'an Lagoons, Hainan.
-    - Analyzed typhoon impacts on water quality regimes over a 6-year period (2019-2025).
-    - Processed and georeferenced multi-source satellite imagery (Landsat 8/9, Sentinel-2).
+    - Researching lagoon turbidity dynamics using Google Earth Engine and satellite remote sensing.
+    - Comparative analysis of Xincun and Li'an Lagoons, Hainan (2019—2025).
+    - Developing automated GEE pipelines for NDTI extraction and temporal compositing.
 
-- title: GIS Analyst Intern
-  date_start: 2022-06-01
-  date_end: 2022-09-01
-  institution: Organization / Company Name
+- title: "B.Sc. in Geographic Information Science"
+  date_start: 2019-09-01
+  date_end: 2023-06-30
+  institution: "Qilu University of Technology"
   description: |
-    - Produced geospatial analysis and cartographic products using ArcGIS Pro 3.6 and QGIS.
-    - Developed Python scripts for automated geospatial data processing pipelines.
+    - Coursework: Remote Sensing, GIS, Cartography, Spatial Analysis, Python Programming.
+    - Graduated with foundational skills in geospatial data processing and analysis.

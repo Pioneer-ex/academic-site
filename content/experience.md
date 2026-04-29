@@ -6,7 +6,7 @@ type: landing
 sections:
   - block: experience
     content:
-      title: "Professional & Academic Experience"
+      title: "Academic and Research Experience"
       date_format: January 2006
       design:
         card_height: md

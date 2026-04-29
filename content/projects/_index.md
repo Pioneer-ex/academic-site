@@ -2,4 +2,4 @@
 title: Projects
 ---
 
-Selected research projects and open-source contributions.
+Selected research projects and technical contributions.

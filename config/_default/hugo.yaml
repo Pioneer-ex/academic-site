@@ -1,6 +1,4 @@
 # Hugo Configuration
-# Docs: https://gohugo.io/getting-started/configuration/
-
 title: "Lu Jinzhe | Remote Sensing & GIS Researcher"
 baseURL: "https://pioneer-ex.github.io/academic-site/"
 languageCode: en-us
@@ -21,7 +19,7 @@ enableGitInfo: true
 summaryLength: 30
 pagination:
   pagerSize: 10
-enableEmoji: true
+enableEmoji: false
 enableRobotsTXT: true
 ignoreFiles: [".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 disableAliases: true

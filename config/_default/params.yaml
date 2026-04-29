@@ -1,22 +1,15 @@
-# ══════════════════════════════════════════════════════════════════════
-# HUGO BLOX CONFIGURATION
-# Schema: hugoblox.com/schema/v2
-# Docs: https://docs.hugoblox.com/
-# ══════════════════════════════════════════════════════════════════════
 hugoblox:
   schema: "2.0"
 
-  # ── IDENTITY ──────────────────────────────────────────────────────
   identity:
     name: "Lu Jinzhe (Jenkin)"
     organization: ""
     type: person
     tagline: "Remote Sensing & GIS Researcher"
-    description: "Academic portfolio of Lu Jinzhe — Coastal Zone Environmental Monitoring, Google Earth Engine, and Lagoon Turbidity Analysis."
+    description: "Academic portfolio of Lu Jinzhe. Coastal Zone Environmental Monitoring, Google Earth Engine, and Lagoon Turbidity Analysis."
     social:
-      github: "jenkin-lu"
+      github: "Pioneer-ex"
 
-  # ── THEME ─────────────────────────────────────────────────────────
   theme:
     mode: system
     pack: "default"
@@ -25,17 +18,14 @@ hugoblox:
       secondary: "cyan"
       neutral: "slate"
 
-  # ── TYPOGRAPHY ────────────────────────────────────────────────────
   typography:
     pack: "academic"
 
-  # ── LAYOUT ────────────────────────────────────────────────────────
   layout:
     radius: "md"
     spacing: "spacious"
     avatar_shape: circle
 
-  # ── HEADER ────────────────────────────────────────────────────────
   header:
     enable: true
     style: navbar
@@ -50,22 +40,20 @@ hugoblox:
       text: ""
       url: ""
 
-  # ── FOOTER ────────────────────────────────────────────────────────
   footer:
     enable: true
     align: center
     copyright:
       enable: true
-      text: "&copy; {{YEAR}} Lu Jinzhe"
+      text: "Copyright &copy; {{YEAR}} Lu Jinzhe. Powered by Hugo Blox."
     social:
       enable: true
       icons:
         - icon: fab fa-github
-          url: "https://github.com/jenkin-lu"
+          url: "https://github.com/Pioneer-ex"
           label: GitHub
           target: _blank
 
-  # ── FEATURES ──────────────────────────────────────────────────────
   features:
     syntaxHighlighter:
       enable: true
